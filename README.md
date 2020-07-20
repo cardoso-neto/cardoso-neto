@@ -1,16 +1,28 @@
-### Hi there 👋
+### [Hello, there!](https://www.youtube.com/watch?v=eaEMSKzqGAg) 
 
+My name is Nei Cardoso de Oliveira Neto. I'm an Information Systems student at [PUC-RS](http://www.pucrs.br/en/), Brazil.
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/neineto/)](https://www.linkedin.com/in/neineto/)
 <!--
-**cardoso-neto/cardoso-neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Several personal projects. Most of which hosted here.
 -->
+#### 💬 Ask me about:
+
+Astronomy, backup systems, cryptography, database modeling, decentralized apps, distributed systems, Git, and Python.
+
+#### 🌱 I’m currently studying:
+
+Data storage and management, and music theory. 
+
+#### 🤔 I’m looking for help with my life goals of making
+
+- the web decentralized and permanent;
+- internet access free and ubiquitous;
+- cryptocurrencies easy-to-use.
+
+#### ⚡ Fun facts:
+
+- I watched most science fiction TV shows out there;
+- I religiously watch SpaceX rocket launches putting my life on hold untill the booster lands.
