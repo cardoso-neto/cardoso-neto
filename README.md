@@ -18,7 +18,7 @@ Data storage and management, and music theory.
 
 ### :telescope: I’m looking for help with my humble goals of making
 
-- the web decentralized and permanent;
+- the web decentralized and [permanent](https://www.wired.com/2016/06/inventors-internet-trying-build-truly-permanent-web/);
 - internet access free and ubiquitous;
 - cryptocurrencies easy-to-use.
 
