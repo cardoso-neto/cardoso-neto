@@ -16,7 +16,7 @@ Astronomy, backup systems, cryptography, database modeling, decentralized apps, 
 
 Data storage and management, and music theory. 
 
-### :telescope: I’m looking for help with my life goals of making
+### :telescope: I’m looking for help with my humble goals of making
 
 - the web decentralized and permanent;
 - internet access free and ubiquitous;
