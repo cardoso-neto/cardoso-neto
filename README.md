@@ -1,6 +1,6 @@
 ### [Hello, there!](https://www.youtube.com/watch?v=eaEMSKzqGAg) 
 
-My name is Nei Cardoso de Oliveira Neto. I'm an Information Systems student at [PUC-RS](http://www.pucrs.br/en/), Brazil.
+My name is **Nei Cardoso de Oliveira Neto**. I'm an Information Systems student at [PUC-RS](http://www.pucrs.br/en/), Brazil.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/neineto/)](https://www.linkedin.com/in/neineto/)
 <!--
