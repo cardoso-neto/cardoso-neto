@@ -14,7 +14,7 @@ Astronomy, backup systems, cryptography, database modeling, decentralized apps, 
 
 ### 🌱 I’m currently studying:
 
-Data storage and management, and music theory. 
+Data storage and management, deep learning, and music theory. 
 
 ### :telescope: I’m looking for help with my humble goals of making
 
