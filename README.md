@@ -25,4 +25,4 @@ Data storage and management, deep learning, and music theory.
 ### ⚡ Fun facts:
 
 - I watched most science fiction TV shows out there;
-- I religiously watch [SpaceX's](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) rocket launches putting my life on hold untill the booster lands.
+- I watch all of [SpaceX's](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) rocket launches at the edge of my seat right up until the booster lands and the satellites deploy.
