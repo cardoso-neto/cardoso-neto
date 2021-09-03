@@ -10,7 +10,7 @@ Several personal projects. Most of which hosted here.
 -->
 ### 💬 Ask me about:
 
-Astronomy, backup systems, cryptography, database modeling, decentralized apps, distributed systems, Git, and Python.
+Astronomy, backup systems, Bitcoin, cryptography, database modeling, decentralized apps, distributed systems, Git, IPFS, Python, and software architecture.
 
 ### 🌱 I’m currently studying:
 
