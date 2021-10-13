@@ -14,7 +14,7 @@ Astronomy, backup systems, Bitcoin, cryptography, database modeling, decentraliz
 
 ### 🌱 I’m currently studying:
 
-Data storage and management, deep learning, and music theory. 
+Application security, devops, data storage and management. 
 
 ### :telescope: I’m looking for help with my humble goals of making
 
@@ -25,4 +25,6 @@ Data storage and management, deep learning, and music theory.
 ### ⚡ Fun facts:
 
 - I watched most science fiction TV shows out there;
-- I watch all of [SpaceX's](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) rocket launches at the edge of my seat right up until the booster lands and the satellites deploy.
+- I'm a big fan of [SpaceX's](https://www.youtube.com/channel/UCtI0Hodo5o5dUb67FeUjDeA) rocket launches;
+- I play chess [lichess@neineto](lichess.org/@/neineto);
+- I listen to music a lot [Spotify profile](https://open.spotify.com/user/7ay3kgec10391e1lfhv9gi2no?si=UaW0j7hXQeyhRSQFs4YY0Q&utm_source=copy-link&dl_branch=1).
