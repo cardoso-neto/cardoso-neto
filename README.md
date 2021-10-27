@@ -1,8 +1,11 @@
 ### [Hello, there!](https://www.youtube.com/watch?v=eaEMSKzqGAg) 
 
-My name is **Nei Cardoso de Oliveira Neto**. I'm an Information Systems student at [PUC-RS](http://www.pucrs.br/en/), Brazil.
+My name is **Nei Cardoso de Oliveira Neto**.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=linkedin.com/in/neineto/)](https://www.linkedin.com/in/neineto/)
+I have a bachelor's degree on Information Systems (obtained on July/2021 at [PUC-RS](http://www.pucrs.br/en/), Brazil).
+
+- [LinkedIn](https://www.linkedin.com/in/neineto/)
+- [StackOverflow](https://stackoverflow.com/users/11615853/nei-neto)
 <!--
 #### 🔭 I’m currently working on:
 
